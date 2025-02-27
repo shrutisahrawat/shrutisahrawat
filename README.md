@@ -1,7 +1,7 @@
 Hi there! 👋 I'm Shruti Sahrawat  
 
 🎓 **Pursuing B.Tech in Computer Science & Engineering**  
-💻 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Analysis**  
+💻 Passionate about **Artificial Intelligence**, **Machine Learning**, **Software Developer** and **Data Analysis**  
 
 ---
 
