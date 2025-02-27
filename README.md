@@ -15,7 +15,7 @@ When I'm not coding, you'll find me playing badminton 🏸 or singing 🎤, my f
 ## 🛠️ Skills & Tools  
 - **Programming Languages**: C, C++, Python, Java  
 - **Libraries & Frameworks**: NumPy, Pandas, TensorFlow, Keras, Scikit-Learn  
-- **Core Skills**: Machine Learning, Deep Learning, Data Analysis, Web Scraping  
+- **Core Skills**: Machine Learning, Deep Learning, Data Analysis, Web Scraping and Data Structures 
 - **Cloud Platforms**: AWS, Google Cloud  
 - **Tools & Platforms**: Jupyter Notebook, Google Colab, GitHub  
 
@@ -44,7 +44,8 @@ Here are some of the projects I've worked on:
 
 ## 🌱 Currently Learning  
 - Advanced Machine Learning Algorithms  
-- AWS (Amazon Web Services)  
+- AWS (Amazon Web Services)
+- Data Structures
 - Deployment of AI Models on Cloud Platforms  
 
 ---
