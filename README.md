@@ -13,7 +13,7 @@ When I'm not coding, you'll find me playing badminton 🏸 or singing 🎤, my f
 ---
 
 ## 🛠️ Skills & Tools  
-- **Programming Languages**: C, C++, Python, Java  
+- **Programming Languages**: Python,C++,C 
 - **Libraries & Frameworks**: NumPy, Pandas, TensorFlow, Keras, Scikit-Learn  
 - **Core Skills**: Machine Learning, Deep Learning, Data Analysis, Web Scraping and Data Structures 
 - **Cloud Platforms**: AWS, Google Cloud  
