@@ -8,7 +8,7 @@ Hi there! 👋 I'm Shruti Sahrawat
 ## 🚀 About Me  
 I'm a B.Tech CSE student exploring the vast landscape of technology. My focus lies in solving real-world problems using programming and AI techniques. I love working on projects that make data meaningful and intelligent systems more accessible.  
 
-When I'm not coding, you'll find me playing badminton 🏸 or singing 🎤, my favorite ways to unwind and recharge.  
+ 
 
 ---
 
