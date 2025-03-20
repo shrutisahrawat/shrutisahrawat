@@ -51,8 +51,8 @@ Here are some of the projects I've worked on:
 ---
 
 ## 🤝 Let's Connect!  
-- [Linkedin]:(https://www.linkedin.com/in/shruti-sahrawat-718362250/) 
-- [Mail_id]: (shruti9shruti4@gmail.com)
+- [Linkedin] (https://www.linkedin.com/in/shruti-sahrawat-718362250/) 
+- [Mail_id] (shruti9shruti4@gmail.com)
 
 ---
 
