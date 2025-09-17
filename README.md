@@ -15,7 +15,6 @@ I'm a B.Tech CSE student exploring the vast landscape of technology. My focus li
 - **Programming Languages**: Python,C++,C 
 - **Libraries & Frameworks**: NumPy, Pandas, TensorFlow, Keras, Scikit-Learn  
 - **Core Skills**: Machine Learning, Deep Learning, Data Analysis, Web Scraping and Data Structures 
-- **Cloud Platforms**: AWS, Google Cloud  
 - **Tools & Platforms**: Jupyter Notebook, Google Colab, GitHub  
 
 ---
